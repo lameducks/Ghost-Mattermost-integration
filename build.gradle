@@ -24,7 +24,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-validation'
     implementation 'org.springframework.boot:spring-boot-starter-web'
     implementation 'org.springframework.cloud:spring-cloud-starter-openfeign'
-    runtimeOnly 'mysql:mysql-connector-java:8.0.22'
+    runtimeOnly 'mysql:mysql-connector-java:8.0.26'
     annotationProcessor 'org.immutables:value:2.8.8'
     compileOnly 'org.immutables:value-annotations:2.8.8'
     developmentOnly 'org.springframework.boot:spring-boot-devtools'
